@@ -19,10 +19,14 @@
 
 ## Features
 
+- **Modern ZeroTier Integration** - Updated for seamless compatibility with latest ZeroTier protocols
+- **Enhanced Performance** - Optimized for Android 14 (API 34) with improved stability
+- **Expanded Network Capabilities** - Full support for advanced ZeroTier networking features
 - Self-hosted Moon Support
 - Add custom planet config via file and URL
 - View peers list
 - Chinese translation
+- Material Design 1.11 UI
 
 ## Download
 
