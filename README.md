@@ -19,9 +19,9 @@
 
 ## Features
 
-- **Modern ZeroTier Integration** - Updated for seamless compatibility with latest ZeroTier protocols
+- **Modern Android Integration for ZeroTier** - Updated Android client and integration layer around ZeroTier core 1.12.2 for current Android versions
 - **Enhanced Performance** - Optimized for Android 14 (API 34) with improved stability
-- **Expanded Network Capabilities** - Full support for advanced ZeroTier networking features
+- **Expanded App Network Capabilities** - Leverages Android 14 (API 34) networking features and additional configuration options; ZeroTier core (1.12.2) itself is unchanged
 - Self-hosted Moon Support
 - Add custom planet config via file and URL
 - View peers list
